@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:12:54.473Z",
+  "generated_at": "2026-09-23T09:13:05.849Z",
   "items": {
     "problem:1123": {
       "kind": "problem",
@@ -37,6 +37,19 @@
       "path": "problems/1125-top-n-percent-by-group-with-ntile",
       "first_solved_at": "2026-09-23T09:12:53.876Z",
       "last_pushed_at": "2026-09-23T09:12:53.876Z",
+      "language": "sql",
+      "lines": 7
+    },
+    "problem:1107": {
+      "kind": "problem",
+      "id": "1107",
+      "title": "Count rows per group",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1107",
+      "path": "problems/1107-count-rows-per-group",
+      "first_solved_at": "2026-09-23T09:13:05.011Z",
+      "last_pushed_at": "2026-09-23T09:13:05.011Z",
       "language": "sql",
       "lines": 7
     }
