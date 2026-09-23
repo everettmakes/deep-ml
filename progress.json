@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-23T08:53:19.017Z",
+  "items": {
+    "problem:1123": {
+      "kind": "problem",
+      "id": "1123",
+      "title": "Top-N Most Profitable Companies with DENSE_RANK",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1123",
+      "path": "problems/1123-top-n-most-profitable-companies-with-dense-rank",
+      "first_solved_at": "2026-09-23T08:53:15.112Z",
+      "last_pushed_at": "2026-09-23T08:53:15.112Z",
+      "language": "sql",
+      "lines": 22
+    }
+  }
+}
