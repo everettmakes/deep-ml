@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**17** solved · 17 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-09-23 | [solution](problems/1107-count-rows-per-group) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-09-23 | [solution](problems/0078-descriptive-statistics-calculator) |
+| [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-09-24 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Generate Normal Samples and Compute Histogram Counts](https://www.deep-ml.com/problems/1130) | easy | 2026-09-24 | [solution](problems/1130-generate-normal-samples-and-compute-histogram-counts) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-09-23 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-09-24 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
