@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 10 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-09-23 | [solution](problems/1107-count-rows-per-group) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-09-23 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-09-23 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
+| [Efficiently Find Duplicates in a Large Dataset](https://www.deep-ml.com/problems/1089) | medium | 2026-09-24 | [solution](problems/1089-efficiently-find-duplicates-in-a-large-dataset) |
 | [Employees Earning Above Their Department Average (Correlated Subquery)](https://www.deep-ml.com/problems/1126) | medium | 2026-09-23 | [solution](problems/1126-employees-earning-above-their-department-average-correlated-subquery) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-09-23 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-23 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
