@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**14** solved · 14 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-09-23 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-23 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-09-23 | [solution](problems/1129-merge-multiple-dataframes) |
+| [Reshape Data with pivot_table and melt](https://www.deep-ml.com/problems/1132) | medium | 2026-09-24 | [solution](problems/1132-reshape-data-with-pivot-table-and-melt) |
 | [Salary Difference Between Departments with Conditional Aggregation](https://www.deep-ml.com/problems/1124) | medium | 2026-09-23 | [solution](problems/1124-salary-difference-between-departments-with-conditional-aggregation) |
 | [Top-N Most Profitable Companies with DENSE_RANK](https://www.deep-ml.com/problems/1123) | medium | 2026-09-23 | [solution](problems/1123-top-n-most-profitable-companies-with-dense-rank) |
 | [Top-N Percent by Group with NTILE](https://www.deep-ml.com/problems/1125) | medium | 2026-09-23 | [solution](problems/1125-top-n-percent-by-group-with-ntile) |
