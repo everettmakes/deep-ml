@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 23 problems · 1 labs · 0 math
+**25** solved · 24 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Normal Samples and Compute Histogram Counts](https://www.deep-ml.com/problems/1130) | easy | 2026-09-24 | [solution](problems/1130-generate-normal-samples-and-compute-histogram-counts) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-09-23 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-28 | [solution](problems/0046-implement-precision-metric) |
+| [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-09-28 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-09-25 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-09-24 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-09-24 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
