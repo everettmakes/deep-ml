@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 27 problems · 1 labs · 0 math
+**29** solved · 28 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Employees Earning Above Their Department Average (Correlated Subquery)](https://www.deep-ml.com/problems/1126) | medium | 2026-09-23 | [solution](problems/1126-employees-earning-above-their-department-average-correlated-subquery) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-09-23 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-09-25 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-09-28 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-09-28 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-09-25 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-24 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
