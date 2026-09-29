@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 30 problems · 1 labs · 0 math
+**32** solved · 31 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Employees Earning Above Their Department Average (Correlated Subquery)](https://www.deep-ml.com/problems/1126) | medium | 2026-09-23 | [solution](problems/1126-employees-earning-above-their-department-average-correlated-subquery) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-09-23 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-29 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
+| [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-09-29 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement Focal Loss for Imbalanced Classification](https://www.deep-ml.com/problems/255) | medium | 2026-09-29 | [solution](problems/0255-implement-focal-loss-for-imbalanced-classification) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-09-25 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-09-28 | [solution](problems/0278-implement-precision-recall-curve) |
