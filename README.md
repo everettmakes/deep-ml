@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 37 problems · 2 labs · 0 math
+**40** solved · 38 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-25 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Top-N Most Profitable Companies with DENSE_RANK](https://www.deep-ml.com/problems/1123) | medium | 2026-09-23 | [solution](problems/1123-top-n-most-profitable-companies-with-dense-rank) |
 | [Top-N Percent by Group with NTILE](https://www.deep-ml.com/problems/1125) | medium | 2026-09-23 | [solution](problems/1125-top-n-percent-by-group-with-ntile) |
+| [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-10-01 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-10-01 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Labs
