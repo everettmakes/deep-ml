@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:05:03.975Z",
+  "generated_at": "2026-10-01T15:06:23.603Z",
   "items": {
     "problem:1123": {
       "kind": "problem",
@@ -559,6 +559,19 @@
       "last_pushed_at": "2026-10-01T15:05:03.259Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:254": {
+      "kind": "problem",
+      "id": "254",
+      "title": "Silhouette Score for Clustering Evaluation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/254",
+      "path": "problems/0254-silhouette-score-for-clustering-evaluation",
+      "first_solved_at": "2026-10-01T15:06:22.839Z",
+      "last_pushed_at": "2026-10-01T15:06:22.839Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }

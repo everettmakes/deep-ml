@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 41 problems · 2 labs · 0 math
+**44** solved · 42 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Forest Fit from Scratch](https://www.deep-ml.com/problems/807) | medium | 2026-10-01 | [solution](problems/0807-random-forest-fit-from-scratch) |
 | [Reshape Data with pivot_table and melt](https://www.deep-ml.com/problems/1132) | medium | 2026-09-24 | [solution](problems/1132-reshape-data-with-pivot-table-and-melt) |
 | [Salary Difference Between Departments with Conditional Aggregation](https://www.deep-ml.com/problems/1124) | medium | 2026-09-23 | [solution](problems/1124-salary-difference-between-departments-with-conditional-aggregation) |
+| [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-10-01 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-25 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Top-N Most Profitable Companies with DENSE_RANK](https://www.deep-ml.com/problems/1123) | medium | 2026-09-23 | [solution](problems/1123-top-n-most-profitable-companies-with-dense-rank) |
 | [Top-N Percent by Group with NTILE](https://www.deep-ml.com/problems/1125) | medium | 2026-09-23 | [solution](problems/1125-top-n-percent-by-group-with-ntile) |
