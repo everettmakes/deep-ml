@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T11:03:51.315Z",
+  "generated_at": "2026-10-01T12:45:11.689Z",
   "items": {
     "problem:1123": {
       "kind": "problem",
@@ -427,6 +427,19 @@
       "path": "labs/0011-data-preprocessing-handling-missing-values",
       "first_solved_at": "2026-09-29T11:03:50.598Z",
       "last_pushed_at": "2026-09-29T11:03:50.598Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:812": {
+      "kind": "problem",
+      "id": "812",
+      "title": "Permutation Feature Importance",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/812",
+      "path": "problems/0812-permutation-feature-importance",
+      "first_solved_at": "2026-10-01T12:45:10.756Z",
+      "last_pushed_at": "2026-10-01T12:45:10.756Z",
       "language": "python",
       "lines": 20
     }
