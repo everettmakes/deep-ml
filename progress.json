@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:44:14.663Z",
+  "generated_at": "2026-10-01T14:47:27.119Z",
   "items": {
     "problem:1123": {
       "kind": "problem",
@@ -520,6 +520,19 @@
       "last_pushed_at": "2026-10-01T14:44:13.002Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:344": {
+      "kind": "problem",
+      "id": "344",
+      "title": "Implement Gradient Boosting Regressor Step",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/344",
+      "path": "problems/0344-implement-gradient-boosting-regressor-step",
+      "first_solved_at": "2026-10-01T14:47:25.569Z",
+      "last_pushed_at": "2026-10-01T14:47:25.569Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
