@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:06:23.603Z",
+  "generated_at": "2026-10-01T15:15:24.056Z",
   "items": {
     "problem:1123": {
       "kind": "problem",
@@ -572,6 +572,19 @@
       "last_pushed_at": "2026-10-01T15:06:22.839Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:827": {
+      "kind": "problem",
+      "id": "827",
+      "title": "Elbow Method for K-Means",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/827",
+      "path": "problems/0827-elbow-method-for-k-means",
+      "first_solved_at": "2026-10-01T15:15:23.018Z",
+      "last_pushed_at": "2026-10-01T15:15:23.018Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }

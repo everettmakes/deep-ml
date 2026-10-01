@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 42 problems · 2 labs · 0 math
+**45** solved · 43 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-09-28 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-09-24 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
 | [Efficiently Find Duplicates in a Large Dataset](https://www.deep-ml.com/problems/1089) | medium | 2026-09-24 | [solution](problems/1089-efficiently-find-duplicates-in-a-large-dataset) |
+| [Elbow Method for K-Means](https://www.deep-ml.com/problems/827) | medium | 2026-10-01 | [solution](problems/0827-elbow-method-for-k-means) |
 | [Employees Earning Above Their Department Average (Correlated Subquery)](https://www.deep-ml.com/problems/1126) | medium | 2026-09-23 | [solution](problems/1126-employees-earning-above-their-department-average-correlated-subquery) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-09-23 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-29 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
