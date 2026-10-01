@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 36 problems · 2 labs · 0 math
+**39** solved · 37 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-23 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-09-23 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Permutation Feature Importance](https://www.deep-ml.com/problems/812) | medium | 2026-10-01 | [solution](problems/0812-permutation-feature-importance) |
+| [Random Forest Fit from Scratch](https://www.deep-ml.com/problems/807) | medium | 2026-10-01 | [solution](problems/0807-random-forest-fit-from-scratch) |
 | [Reshape Data with pivot_table and melt](https://www.deep-ml.com/problems/1132) | medium | 2026-09-24 | [solution](problems/1132-reshape-data-with-pivot-table-and-melt) |
 | [Salary Difference Between Departments with Conditional Aggregation](https://www.deep-ml.com/problems/1124) | medium | 2026-09-23 | [solution](problems/1124-salary-difference-between-departments-with-conditional-aggregation) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-25 | [solution](problems/0842-standardscaler-fit-and-transform) |
